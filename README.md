@@ -22,7 +22,7 @@ Construction (incluant les tests)
 <pre>mvn clean package</pre>
 
 Tests uniquement
-<pre>mvn test<pre>
+<pre>mvn test</pre>
 
 
 ## Tests
