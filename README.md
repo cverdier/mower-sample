@@ -1,7 +1,7 @@
-# À propos de l'application exmple MowItNow - Mower Driver
+# À propos de l'application exemple MowItNow - Mower Driver
 
 ## Conception
-Cette application est un exemple de conception objet Java simple. Le but est de piloter automatique des tondeuses sur une surface rectangulaire, représentée en cases.
+Cette application est un exemple de conception objet Java simple. Le but est de piloter automatiquement des tondeuses sur une surface rectangulaire, représentée en cases.
 Elle est conçue comme une librairie autour des classes et interfaces principales suivantes :
 * Mower : Objet de base pour une tondeuse pilotable
 * Driver : Pilotage automatique de tondeuses
@@ -9,7 +9,7 @@ Elle est conçue comme une librairie autour des classes et interfaces principale
 * ConfigurationService : Configuration du système de pilotage
 * RenderService : Affichage d'informations du système de pilotage
 Des implémentations de base sont fournies pour un usage d'exemple.
-Une classe MowerCLI permet un fonctionnement exécutable.
+Une classe MowerCLI permet un fonctionnement exécutable en ligne de commande.
 L'application est destinée à un JRE 1.7.
 
 
